@@ -1,6 +1,6 @@
-## Ftamino
+## Ftamino YouTube 
 
-[Ftamino](https://github.com/Ftamino/ftamino.github.io/edit/main/README.md) ist coolto maintain and preview the content for your website in Markdown files.
+[Ftamino](https://www.youtube.com/channel/UCvh1BSPiASonnIrGVKBjzrg) ist coolto maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
