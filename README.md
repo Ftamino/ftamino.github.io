@@ -1,8 +1,8 @@
-## Ftamino YouTube 
+## Ftamino
+
+### Ftamino YouTube 
 
 [Ftamino](https://www.youtube.com/channel/UCvh1BSPiASonnIrGVKBjzrg) ist ein deutscher Kontent Creator der qualitativ hochwertigen Minecraft Content hochlädt, aber auch andere Projekte rund um Minecraft (Maps, Mods, Datapacks, etc.) erstellt und diese hier hochlädt. 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
