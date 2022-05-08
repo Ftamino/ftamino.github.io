@@ -18,13 +18,13 @@ In Arbeit
 
 In Arebeit
 
-### Impressum 
+## Impressum 
 
-####Kontakt
+### Kontakt
 -Email: ftamino.yt@gmail.com
--Discord: 
-####Websiten
-
+-[Discord](https://discord.com/invite/ysxF6S587W)
+### Websiten
+-[YouTube](https://www.youtube.com/channel/UCvh1BSPiASonnIrGVKBjzrg)
 -[Twitch](https://www.twitch.tv/ftamino)
        
 
