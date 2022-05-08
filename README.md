@@ -8,6 +8,8 @@ Ihr wollt selbst etwas zum Content beitragen? Dann ist mein [Discord Server](htt
 
 ## Texturepacks
 
+In Arbeit
+
 ## Maps
 
 In Arbeit
@@ -15,5 +17,17 @@ In Arbeit
 ## Mods
 
 In Arebeit
+
+### Impressum 
+
+####Kontakt
+-Email: ftamino.yt@gmail.com
+-Discord: 
+####Websiten
+
+-[Twitch](https://www.twitch.tv/ftamino)
+       
+
+         
 
 
