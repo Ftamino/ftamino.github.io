@@ -16,7 +16,7 @@ In Arbeit
 
 ## Mods
 
-[AUVA (Advanced Upgradable Vanilla Armor)](/mods/auva) 
+[AUVA (Advanced Upgradable Vanilla Armor)](https://ftamino.github.io/mods/auva) 
 
 
 ## Impressum 
