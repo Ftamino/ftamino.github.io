@@ -3,6 +3,9 @@
 ### Description:
 <p>This mod adds a armor verry similar to the vannilla netherite armor but its harder to craft and upgradable. It also adds a ore. (see below)</p>
 
+### Download
+Download the mod [here](https://www.curseforge.com/minecraft/mc-mods/advanced-upgradable-vannilla-armor-auva/download/3864616)
+
 ### Armor
 <p>Crafting:&nbsp;</p>
 <ul>
