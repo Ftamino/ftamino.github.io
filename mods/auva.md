@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"><strong>Advanced Upgradable Vannilla Armor (AUVA)</strong></h2>
+## Advanced Upgradable Vannilla Armor (AUVA)
 <p>&nbsp;</p>
 <h5>Description:</h5>
 <p>This mod adds a armor verry similar to the vannilla netherite armor but its harder to craft and upgradable. It also adds a ore. (see below)</p>
@@ -42,7 +42,7 @@
 <p>Really rear ore. It spawns between y=1 and y=3.&nbsp;</p>
 <p>&nbsp;</p>
 <p>The mcretor projekt of the mod is on&nbsp;<a href="https://github.com/Ftamino/auva-workspace">Github</a></p>
-<p>My&nbsp;<a href="https://ftamino.github.io">website</a></p>
+<p><a href="https://www.curseforge.com/minecraft/mc-mods/advanced-upgradable-vannilla-armor-auva">The project on CurseForge</a></p>
 <p>My&nbsp;<a href="https://discord.gg/ysxF6S587W">discord server</a></p>
 <h5>&nbsp;</h5>
 <p>&nbsp;</p>
