@@ -33,8 +33,3 @@ In Arbeit
 -[YouTube](https://www.youtube.com/channel/UCvh1BSPiASonnIrGVKBjzrg)
 
 -[Twitch](https://www.twitch.tv/ftamino)
-       
-
-         
-
-
