@@ -1,6 +1,7 @@
 ## Ftamino    
 
-[EN](https://www.ftamino.github.io/en)
+[Read in English](https://www.ftamino.github.io/en)
+
 [Ftamino](https://www.youtube.com/channel/UCvh1BSPiASonnIrGVKBjzrg) ist ein deutscher YouTube Kontent Creator der seit 13.08.2021 qualitativ hochwertigen Minecraft Content [(Neustes Video)](/pages/youtube-last-upload.html) hochlädt, aber auch andere Projekte rund um Minecraft (Maps, Mods, Datapacks, etc.) erstellt und diese hier hochlädt. Außerdem streamt er regelmäßig (Sonntag 17 Uhr) auf [Twitch](https://www.twitch.tv/ftamino) sowie manchmal Live Aufnahmen für Folgen von aktuellen Projekten
 
 ## Community 
