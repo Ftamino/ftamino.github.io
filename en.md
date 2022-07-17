@@ -20,13 +20,9 @@ WIP
 
 [AUVA (Advanced Upgradable Vanilla Armor)](https://ftamino.github.io/mods/auva) 
 
+### Contakt
 
-## Impressum 
-
-### Kontakt
-
--Email: ftamino.yt@gmail.com
-
+-Email: ftamino-business@gmx.de
 -[Discord](https://discord.com/invite/ysxF6S587W)
 ### Websites
 
