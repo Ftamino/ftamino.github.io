@@ -25,7 +25,7 @@ In Arbeit
 
 ### Kontakt
 
--Email: ftamino.yt@gmail.com
+-Email: ftamino-business@gmx.de
 
 -[Discord](https://discord.com/invite/ysxF6S587W)
 ### Websiten
