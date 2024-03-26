@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+    <link rel="manifest" href="./site.webmanifest">
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cookie Clicker</title>
+  </head>
+
+  <body onload="start()">
+    <img style="float: right;" src="./images/cookie.png" alt="Cookie" onclick="onCookieClicked()" width="1000" height="1000">
+    <h1 id="currentCookiesText">Klicke auf den Keks!</h1>
+    <h1 id="cookiesPerClickText">Cookies pro Click: 1</h1>
+    <h1 id="cookiesPerSecondText">Cookies pro Sekunde: 0</h1>
+    <h1 id="timesClickedText"><br /></h1>
+    
+    <button id="UpgradeButtonWorker" class="UpgradeButton" title="+2 Cookie pro Klick" onclick="onUpgradeWorkerClicked()">loading...</button>
+    
+    <script src="script.js"></script>
+  </body>
+</html>
